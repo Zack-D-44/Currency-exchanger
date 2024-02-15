@@ -5,9 +5,13 @@ This is a simple desktop application built with C# and the .NET Framework. It al
 This application uses the Free Currency API which can be found here: https://freecurrencyapi.com/
 
 Features:
+
 -Convert between different currencies with real-time exchange rates
+
 -User-friendly interface
+
 -Error handling for invalid inputs 
+
 -Currency swap function 
 
 Technologies used:
