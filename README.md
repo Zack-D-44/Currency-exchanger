@@ -14,6 +14,8 @@ Features:
 
 -Currency swap function 
 
+
+
 Technologies used:
 
 -C#
@@ -23,6 +25,7 @@ Technologies used:
 -WinForms
 
 -Free Currency API
+
 
 
 
